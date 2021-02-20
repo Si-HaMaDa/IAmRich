@@ -5,13 +5,13 @@ void main() {
       home: Scaffold(
     backgroundColor: Colors.blueGrey,
     appBar: AppBar(
-      title: Text('I am Rich'),
+      title: Text('I Am Rich'),
       backgroundColor: Colors.blueGrey[900],
     ),
     body: Center(
       child: Column(
         children: [
-          Text('I am Rich'),
+          Text('I Am Rich'),
           Image(
             image: AssetImage('images/diamond.png'),
           ),
